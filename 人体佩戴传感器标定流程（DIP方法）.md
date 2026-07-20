@@ -85,3 +85,7 @@ $$
 | $R_{TS}$ | 传感器相对于 SMPL 身体坐标系 |
 | $R_{TB}$ | 骨骼相对于 SMPL 身体坐标系 |
 | $R_{BS}$ | 传感器坐标系 → 骨骼坐标系 |
+
+
+## 参考
+<img width="696" height="382" alt="image" src="https://github.com/user-attachments/assets/b7abfe87-145f-4b98-a5dd-859ce1de3499" />
