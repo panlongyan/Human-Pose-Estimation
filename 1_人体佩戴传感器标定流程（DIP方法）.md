@@ -88,13 +88,11 @@ $$
 | $R_{BS}$ | 传感器坐标系 → 骨骼坐标系 |
 
 ## SMPL身体坐标系
-          +Y 头顶
-           |
-           |
-  -X 右侧  人体  +X 左侧
-           |
-           |
-          -Y 脚底
+'''
+正前：+z
+左边：+x
+头上：+y
+'''
 
 ## 参考
 <img width="696" height="382" alt="image" src="https://github.com/user-attachments/assets/b7abfe87-145f-4b98-a5dd-859ce1de3499" />
