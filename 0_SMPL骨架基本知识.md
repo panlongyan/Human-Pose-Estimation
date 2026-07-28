@@ -51,6 +51,7 @@
 
 
 ## amass系列数据集相关数据列说明
+root_pose：根部的姿态（根部（z轴朝前，x轴朝左，y轴朝上）相对于动捕世界坐标系的姿态）<br>
 poses：含骨盆root_orient和关节pose_body<br>
 trans：骨盆在动捕世界坐标系的位置<br>
 betas：人体形状参数<br>
